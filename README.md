@@ -1,6 +1,6 @@
 # 🌟 Welcome to tacodevtripa's GitHub!
 
-Hi there! 👋  
+Hi there again! 👋  
 I'm dedicated to helping aspiring developers become **Full-stack professionals**. This GitHub profile complements my [YouTube Channel](https://www.youtube.com/@tacodevtripa) by providing code, projects, and resources from my tutorials.
 
 ---
