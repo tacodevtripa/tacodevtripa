@@ -18,7 +18,7 @@ I'm passionate about teaching web development and empowering creators with the s
 
 💬 **Let's Connect**:
 
-- [YouTube](https://www.youtube.com/@tacodevtripa)
+- [YouTube](https://www.youtube.com/@tacodevtripa_esp)
 - [Discord](https://discord.gg/gw96Rzd3)
 
 ---
