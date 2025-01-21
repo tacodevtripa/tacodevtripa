@@ -29,7 +29,7 @@ If you enjoy the content and find it helpful:
 
 - Star 🌟 the repositories you love.
 - Share the tutorials with your network.
-- Subscribe to my [YouTube Channel](https://www.youtube.com/@tacodevtripa) for more content!
+- Subscribe to my [YouTube Channel](https://www.youtube.com/@tacodevtripa_esp) for more content!
 
 ---
 
